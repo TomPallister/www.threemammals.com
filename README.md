@@ -1,4 +1,4 @@
-www.threemammals.co.uk
+www.threemammals.com
 ======================
 
 website for three mammals
